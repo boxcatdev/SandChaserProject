@@ -2521,3 +2521,269 @@ Sampler Limit: 32
 [2025.05.22-19.42.06:781][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.22-19.42.06:781][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.22-19.42.06:781][306]AssetCheck: /Game/Maps/DesertSandbox Validating asset
+[2025.05.22-19.42.51:349][685]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.05.22-19.42.54:110][814]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.05.22-19.42.54:111][814]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.05.22-19.42.54:267][814]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-19.42.55:614][814]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.05.22-19.42.55:615][814]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.05.22-19.43.00:287][ 20]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.05.22-19.44.44:133][ 94]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.05.22-19.44.44:133][ 94]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.05.22-19.44.44:135][ 94]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/DesertSandbox.DesertSandbox:PersistentLevel.PostProcessVolume_0
+[2025.05.22-19.44.44:143][ 94]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/DesertSandbox.DesertSandbox:PersistentLevel.PostProcessVolume_0
+[2025.05.22-19.44.44:178][ 94]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-19.45.14:966][656]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.22-19.45.14:972][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-19.45.14:972][656]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertSandbox
+[2025.05.22-19.45.14:986][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014797s)
+[2025.05.22-19.45.14:986][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertSandbox.DesertSandbox to /Game/Maps/UEDPIE_0_DesertSandbox.DesertSandbox (0.014838s)
+[2025.05.22-19.45.15:023][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.22-19.45.15:025][656]LogChaosDD: Creating Chaos Debug Draw Scene for world DesertSandbox
+[2025.05.22-19.45.15:026][656]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2025.05.22-19.45.15:027][656]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.05.22-19.45.15:027][656]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-19.45.15:027][656]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-19.45.15:027][656]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-19.45.15:027][656]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-19.45.15:027][656]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-19.45.15:027][656]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-19.45.15:027][656]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-19.45.15:027][656]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-19.45.15:027][656]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-19.45.15:027][656]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-19.45.15:027][656]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-19.45.15:029][656]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-19.45.15:041][656]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.05.22-19.45.15:041][656]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-19.45.15:041][656]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-19.45.15:041][656]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-19.45.15:041][656]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.05.22-19.45.15:041][656]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.05.22-19.45.15:044][656]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.05.22-19.45.15:044][656]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.05.22-19.45.15:044][656]LogInit: FAudioDevice initialized with ID 11.
+[2025.05.22-19.45.15:044][656]LogAudio: Display: Audio Device (ID: 11) registered with world 'DesertSandbox'.
+[2025.05.22-19.45.15:044][656]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.22-19.45.15:106][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-19.45.15:106][656]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-19.45.15:115][656]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertSandbox.DesertSandbox up for play (max tick rate 0) at 2025.05.22-15.45.15
+[2025.05.22-19.45.15:116][656]LogWorld: Bringing up level for play took: 0.008464
+[2025.05.22-19.45.15:118][656]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.05.22-19.45.15:124][656]PIE: Server logged in
+[2025.05.22-19.45.15:125][656]PIE: Play in editor total start time 0.154 seconds.
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: ================================================
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Total job queries 805, among them cache hits 129 (16.02%), DDC hits 476 (59.13%), Duplicates 69 (8.57%)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Tracking 607 distinct input hashes that result in 372 distinct outputs (61.29%)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: RAM used: 267.51 KiB of 819.20 MiB budget. Usage: 0.03%
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Shaders Compiled: 131
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Jobs assigned 131, completed 131 (100%)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Average time worker was idle: 43.70 s
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.14 s
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 2.44 s
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 2.50
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Shader code size: average 7.939 KiB, min 2.801 KiB, max 22.66 KiB
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.62 s
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Jobs were issued in 131 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Average processing rate: 4.28 jobs/sec
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Total thread time: 62.899 s
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Total thread preprocess time: 11.05 s
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Percentage time preprocessing: 17.57%
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Effective parallelization: 2.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.86 sec, max 1.86 sec, min 1.86 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.40 sec, max 1.48 sec, min 1.21 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.94 sec, max 0.98 sec, min 0.91 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.92 sec, max 0.96 sec, min 0.88 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   27 times, average 0.49 sec, max 0.78 sec, min 0.35 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.20% of total time (compiled   27 times, average 0.49 sec, max 0.78 sec, min 0.35 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.21% of total time (compiled   27 times, average 0.31 sec, max 0.42 sec, min 0.24 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.99% of total time (compiled   19 times, average 0.40 sec, max 0.66 sec, min 0.28 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.60% of total time (compiled   19 times, average 0.32 sec, max 0.40 sec, min 0.25 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.92% of total time (compiled    4 times, average 1.40 sec, max 1.48 sec, min 1.21 sec)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: === Material stats ===
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Materials Translated:    257
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Material Translation Only: 0.11 s (39%)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: Material Cache Hits: 48 (19%)
+[2025.05.22-19.45.20:809][932]LogShaderCompilers: Display: ================================================
+[2025.05.22-19.45.32:694][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-19.45.32:694][557]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertSandbox
+[2025.05.22-19.45.32:695][557]LogSlate: Window 'SandChaserProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.22-19.45.32:739][557]LogWorld: UWorld::CleanupWorld for DesertSandbox, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-19.45.32:739][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-19.45.32:742][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-19.45.32:747][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-19.45.32:765][557]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.22-19.45.32:765][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.22-19.45.32:767][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.22-19.45.32:774][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.22-19.45.32:820][558]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.05.22-19.45.33:759][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-19.45.33:852][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DesertSandbox" FILE="B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Maps/DesertSandbox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.22-19.45.33:885][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.05.22-19.45.34:159][578]LogSavePackage: Moving output files for package: /Game/Maps/DesertSandbox
+[2025.05.22-19.45.34:159][578]LogSavePackage: Moving 'B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Saved/DesertSandbox30183F8547EE2B04E1984CB250996E28.tmp' to 'B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Maps/DesertSandbox.umap'
+[2025.05.22-19.45.34:168][578]LogFileHelpers: Saving map 'DesertSandbox' took 0.316
+[2025.05.22-19.45.34:174][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 414.695 ms (total: 2.39 sec)
+[2025.05.22-19.45.34:219][578]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-19.45.34:219][578]LogContentValidation: Enabled validators:
+[2025.05.22-19.45.34:219][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-19.45.34:219][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-19.45.34:219][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-19.45.34:219][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-19.45.34:219][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-19.45.34:219][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-19.45.34:219][578]AssetCheck: /Game/Maps/DesertSandbox Validating asset
+[2025.05.22-19.46.48:504][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1711.668945
+[2025.05.22-19.46.48:583][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-19.46.48:583][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1711.727173, Update Interval: 340.299072
+[2025.05.22-19.46.50:859][131]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.22-19.46.50:865][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-19.46.50:865][131]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertSandbox
+[2025.05.22-19.46.50:883][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017417s)
+[2025.05.22-19.46.50:883][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertSandbox.DesertSandbox to /Game/Maps/UEDPIE_0_DesertSandbox.DesertSandbox (0.017453s)
+[2025.05.22-19.46.50:901][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.22-19.46.50:902][131]LogChaosDD: Creating Chaos Debug Draw Scene for world DesertSandbox
+[2025.05.22-19.46.50:902][131]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2025.05.22-19.46.50:903][131]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.05.22-19.46.50:903][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-19.46.50:903][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-19.46.50:903][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-19.46.50:903][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-19.46.50:903][131]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-19.46.50:903][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-19.46.50:903][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-19.46.50:903][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-19.46.50:903][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-19.46.50:903][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-19.46.50:903][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-19.46.50:906][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-19.46.50:920][131]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.05.22-19.46.50:920][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-19.46.50:920][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-19.46.50:920][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-19.46.50:921][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.05.22-19.46.50:921][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.05.22-19.46.50:923][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.05.22-19.46.50:923][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.05.22-19.46.50:923][131]LogInit: FAudioDevice initialized with ID 12.
+[2025.05.22-19.46.50:923][131]LogAudio: Display: Audio Device (ID: 12) registered with world 'DesertSandbox'.
+[2025.05.22-19.46.50:923][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.22-19.46.50:952][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-19.46.50:952][131]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-19.46.50:955][131]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertSandbox.DesertSandbox up for play (max tick rate 0) at 2025.05.22-15.46.50
+[2025.05.22-19.46.50:955][131]LogWorld: Bringing up level for play took: 0.002542
+[2025.05.22-19.46.50:957][131]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.05.22-19.46.50:964][131]PIE: Server logged in
+[2025.05.22-19.46.50:965][131]PIE: Play in editor total start time 0.101 seconds.
+[2025.05.22-19.46.54:884][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-19.46.54:884][330]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertSandbox
+[2025.05.22-19.46.54:884][330]LogSlate: Window 'SandChaserProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.22-19.46.54:954][330]LogWorld: UWorld::CleanupWorld for DesertSandbox, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-19.46.54:955][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-19.46.54:957][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-19.46.54:964][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-19.46.54:984][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.22-19.46.54:984][330]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.22-19.46.54:984][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.22-19.46.54:985][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.22-19.46.54:990][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.22-19.46.55:012][331]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.05.22-19.46.57:171][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-19.46.57:171][494]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DesertSandbox
+[2025.05.22-19.46.57:187][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015189s)
+[2025.05.22-19.46.57:187][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DesertSandbox.DesertSandbox to /Game/Maps/UEDPIE_0_DesertSandbox.DesertSandbox (0.015229s)
+[2025.05.22-19.46.57:205][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.22-19.46.57:206][494]LogChaosDD: Creating Chaos Debug Draw Scene for world DesertSandbox
+[2025.05.22-19.46.57:207][494]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2025.05.22-19.46.57:208][494]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.05.22-19.46.57:208][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-19.46.57:208][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-19.46.57:208][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-19.46.57:208][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-19.46.57:208][494]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-19.46.57:208][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-19.46.57:208][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-19.46.57:208][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-19.46.57:208][494]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-19.46.57:208][494]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-19.46.57:208][494]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-19.46.57:211][494]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-19.46.57:223][494]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.05.22-19.46.57:223][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-19.46.57:223][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-19.46.57:223][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-19.46.57:225][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.05.22-19.46.57:225][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.05.22-19.46.57:227][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.05.22-19.46.57:227][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.05.22-19.46.57:227][494]LogInit: FAudioDevice initialized with ID 13.
+[2025.05.22-19.46.57:227][494]LogAudio: Display: Audio Device (ID: 13) registered with world 'DesertSandbox'.
+[2025.05.22-19.46.57:227][494]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.22-19.46.57:231][494]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-19.46.57:233][494]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DesertSandbox.DesertSandbox up for play (max tick rate 0) at 2025.05.22-15.46.57
+[2025.05.22-19.46.57:233][494]LogWorld: Bringing up level for play took: 0.002165
+[2025.05.22-19.46.57:235][494]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.05.22-19.46.57:240][494]PIE: Server logged in
+[2025.05.22-19.46.57:241][494]PIE: Play in editor total start time 0.069 seconds.
+[2025.05.22-19.47.02:604][753]Cmd: LevelEditor.ToggleImmersive
+[2025.05.22-19.47.18:075][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-19.47.18:075][240]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DesertSandbox
+[2025.05.22-19.47.18:075][240]LogWorld: UWorld::CleanupWorld for DesertSandbox, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-19.47.18:076][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-19.47.18:111][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-19.47.18:119][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-19.47.18:143][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-19.47.18:143][240]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.22-19.47.18:143][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.22-19.47.18:145][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.22-19.47.18:151][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.05.22-19.47.18:447][241]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.05.22-19.48.20:886][486]LogShaderCompilers: Display: ================================================
+[2025.05.22-19.48.20:886][486]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.22-19.48.20:886][486]LogShaderCompilers: Display: Total job queries 810, among them cache hits 129 (15.93%), DDC hits 476 (58.77%), Duplicates 69 (8.52%)
+[2025.05.22-19.48.20:886][486]LogShaderCompilers: Display: Tracking 612 distinct input hashes that result in 376 distinct outputs (61.44%)
+[2025.05.22-19.48.20:886][486]LogShaderCompilers: Display: RAM used: 269.09 KiB of 819.20 MiB budget. Usage: 0.03%
+[2025.05.22-19.48.20:886][486]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.22-19.48.20:886][486]LogShaderCompilers: Display: Shaders Compiled: 136
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Jobs assigned 136, completed 136 (100%)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Average time worker was idle: 74.83 s
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.14 s
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 2.44 s
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 2.50
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Shader code size: average 7.867 KiB, min 2.293 KiB, max 22.66 KiB
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.15 s
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Jobs were issued in 136 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Average processing rate: 4.23 jobs/sec
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Total thread time: 65.113 s
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Total thread preprocess time: 11.118 s
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Percentage time preprocessing: 17.07%
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Effective parallelization: 2.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.86 sec, max 1.86 sec, min 1.86 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.40 sec, max 1.48 sec, min 1.21 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.94 sec, max 0.98 sec, min 0.91 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.92 sec, max 0.96 sec, min 0.88 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   28 times, average 0.49 sec, max 0.78 sec, min 0.35 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.26% of total time (compiled   28 times, average 0.49 sec, max 0.78 sec, min 0.35 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.30% of total time (compiled   28 times, average 0.31 sec, max 0.42 sec, min 0.24 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.59% of total time (compiled   19 times, average 0.40 sec, max 0.66 sec, min 0.28 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.28% of total time (compiled   19 times, average 0.32 sec, max 0.40 sec, min 0.25 sec)
+[2025.05.22-19.48.20:887][486]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.62% of total time (compiled    4 times, average 1.40 sec, max 1.48 sec, min 1.21 sec)
+[2025.05.22-19.48.20:888][486]LogShaderCompilers: Display: === Material stats ===
+[2025.05.22-19.48.20:888][486]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.22-19.48.20:888][486]LogShaderCompilers: Display: Materials Translated:    257
+[2025.05.22-19.48.20:888][486]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2025.05.22-19.48.20:888][486]LogShaderCompilers: Display: Material Translation Only: 0.11 s (39%)
+[2025.05.22-19.48.20:888][486]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.22-19.48.20:888][486]LogShaderCompilers: Display: Material Cache Hits: 48 (19%)
+[2025.05.22-19.48.20:888][486]LogShaderCompilers: Display: ================================================
