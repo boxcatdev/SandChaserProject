@@ -2287,3 +2287,12 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.22-18.43.30:256][129]RenderDocPlugin: plugin has been unloaded.
 [2025.05.22-18.43.30:273][129]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
 [2025.05.22-18.43.30:273][129]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9E0F50BE-4684-38E0-2C8C-6EA724FFD3E9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=99c85ba34426b741999d80b84f969196%7C86c6958cea13443e92adf1e515ca2349%7C77a1751e-c2d6-431a-b569-63d792c0d6a8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.22-18.43.30:830][129]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.22-18.43.30:830][129]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.22-18.43.30:830][129]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.22-18.43.30:861][129]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.22-18.43.30:861][129]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.22-18.43.30:862][129]LogPakFile: Destroying PakPlatformFile
+[2025.05.22-18.43.31:097][129]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.22-18.43.31:139][129]LogExit: Exiting.
+[2025.05.22-18.43.31:164][129]Log file closed, 05/22/25 14:43:31
