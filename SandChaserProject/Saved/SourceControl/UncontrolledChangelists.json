@@ -7,14 +7,15 @@
 			"files": [
 				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Maps/DesertSandbox.umap",
-				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Raw/MI_sjzkfega.uasset",
-				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Raw/T_sjzkfega_8K_B.uasset",
-				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Raw/T_sjzkfega_8K_N.uasset",
-				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Raw/T_sjzkfega_8K_ORM.uasset",
 				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/MI_sjzkfega.uasset",
 				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/T_sjzkfega_2K_B.uasset",
 				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/T_sjzkfega_2K_N.uasset",
-				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/T_sjzkfega_2K_ORM.uasset"
+				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/T_sjzkfega_2K_ORM.uasset",
+				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Raw/MI_sjzkfega.uasset",
+				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Raw/T_sjzkfega_8K_B.uasset",
+				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Raw/T_sjzkfega_8K_N.uasset",
+				"B:/Projects/Unreal/__Github/SandChaserProject/SandChaserProject/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Raw/T_sjzkfega_8K_ORM.uasset"
 			]
 		}
 	]
