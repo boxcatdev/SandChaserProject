@@ -22,6 +22,10 @@
 		{
 			"Name": "VisualStudioSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
